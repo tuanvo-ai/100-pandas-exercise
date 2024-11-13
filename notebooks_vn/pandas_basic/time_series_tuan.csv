@@ -1,0 +1,7 @@
+date,value,year,month,day,format_date,format_date_full
+2024-10-01,0,2024,10,1,01/10/2024,"Tuesday, 01 October 2024"
+2024-10-02,1,2024,10,2,02/10/2024,"Wednesday, 02 October 2024"
+2024-10-03,2,2024,10,3,03/10/2024,"Thursday, 03 October 2024"
+2024-10-04,3,2024,10,4,04/10/2024,"Friday, 04 October 2024"
+2024-10-05,4,2024,10,5,05/10/2024,"Saturday, 05 October 2024"
+2024-10-06,5,2024,10,6,06/10/2024,"Sunday, 06 October 2024"
